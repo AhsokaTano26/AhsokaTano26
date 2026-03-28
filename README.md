@@ -1,16 +1,33 @@
-# github-profile-summary-cards-example
+# 💫 AhsokaTano26 | Force-Sensitive Coder
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
+> "I am no Jedi." — But my code speaks for itself.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+---
 
-```To create your profile README you need to name the repo as your username```
+### 📊 GitHub 战斗力统计 (Jedi White Edition)
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/main/profile-summary-card-output/github/4-top-languages.svg" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### 📈 原力波动 (Commit Activity)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/main/profile-summary-card-output/github/3-stats.svg" width="100%" alt="Commit Stats" />
+</p>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+---
