@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/master/profile-summary-card-output/dark/4-productive-time.svg)
-```
-
-    
