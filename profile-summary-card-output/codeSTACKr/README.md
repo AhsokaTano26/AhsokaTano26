@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/AhsokaTano26/AhsokaTano26/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
